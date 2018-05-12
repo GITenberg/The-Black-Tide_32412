@@ -1,0 +1,36 @@
+_repo: The-Black-Tide_32412
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Valigursky, Ed
+    alias: Valigursky, Edward Iakob
+    birthdate: 1926
+    deathdate: 2009
+    gutenberg_agent_id: '35834'
+    url: http://www.gutenberg.org/2009/agents/35834
+covers:
+- cover_type: archival
+  image_path: 32412-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stangland, Arthur G.
+    alias: Stangland, Arthur Golend
+    birthdate: 1908
+    deathdate: 1990
+    gutenberg_agent_id: '35346'
+    url: http://www.gutenberg.org/2009/agents/35346
+description: ''
+gutenberg_issued: '2010-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Black Tide
+url: http://www.gutenberg.org/ebooks/32412
